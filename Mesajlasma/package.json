@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nitropack": "^2.9.7",
+    "nuxt": "^3.13.0",
+    "pinia": "^2.2.2",
+    "vue": "^3.2.47"
+  
+  },
+  "devDependencies": {
+    "@pinia/nuxt": "^0.5.4",
+    "bcryptjs": "^2.4.3",
+    "devalue": "^5.0.0",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0"
+  }
+   
+   
+
+}
